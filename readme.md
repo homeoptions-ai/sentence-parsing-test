@@ -1,4 +1,4 @@
-##sentence-parsing-test
+## sentence-parsing-test
 
 This is a typescript and node based project used to test basic data structure manipulation
 
